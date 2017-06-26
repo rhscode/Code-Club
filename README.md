@@ -1,4 +1,4 @@
-# Code-Club-Dev
+# Code-Club
 #### Created by Harris Miller
-Development Repository
-Uses Bootstrap 4.0.0 Alpha 6
+Proof of Concept for the Roslyn High School Code Club
+Uses Bootstrap 4.0.0-alpha 6
